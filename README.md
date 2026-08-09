@@ -40,7 +40,7 @@
 ## 📊 My Github Stats
 
   <br/>
-  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Github Stats" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=tauz-hub&layout=compact&langs_count=8&theme=dark" /></a>
+  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Github Stats" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=tauz-hub&layout=compact&langs_count=8&theme=dark&hide=javascript" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
